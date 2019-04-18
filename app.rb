@@ -8,7 +8,7 @@ class App < Sinatra::Base
 
   get 'hometown' do
     "My hometown is Alba, Missouri."
-  end 
+  end
 
   get 'favorite-song'
 end
